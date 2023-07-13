@@ -1,0 +1,17 @@
+{
+  "name": "task-api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "next": "^13.4.9"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.1"
+  }
+}
